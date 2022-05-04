@@ -1,0 +1,28 @@
+/* https://coolors.co/000000-d0b8ac-77bfa3-a1674a-ba6e6e */
+
+body {
+  background-color: #d0b8ac;
+  text-align: center;
+}
+#intro h1 {
+  font-size: 80px;
+  animation: fadein;
+}
+h1 {
+  font-family: cursive;
+  color: #000000;
+}
+code {
+  color: #000000;
+}
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0;
+  }
+}
+#contact {
+  background-color: ba6e6e;
+}
