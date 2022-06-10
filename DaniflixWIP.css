@@ -1,0 +1,69 @@
+body {
+  background-color:black;
+  font
+
+}
+h1{
+  font-size: 35px;
+  font color: white;
+}
+.navBar {
+  font-family: 'Courier New', Courier, monospace;
+  color: azure;
+  -ms-flex-align: end;
+}
+.navLinks {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  display:flex -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  flex-direction: row-reverse;
+  font-size: large;
+  color: white;
+}
+#avatar-image{
+  width:30px;
+  height:auto
+}
+.material-icons{
+  color: white;
+  text-align: end;
+}
+.material-symbols-outlined{
+  text-align: end;
+  color: white;
+
+}
+#hold_images {
+  width: 10px;
+  height: auto;
+}
+#infobutton{
+  color:transparent
+}
+.btn btn-primary{
+  color: white;
+}
+h2{
+  font-family: monospace;
+  color: azure;
+}
+.title{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
+}
+.bannerDescription{
+  font-family: 'Times New Roman', Times, serif;
+  color:white;
+}
+.rowPosters{
+  width: 200px;
+  height: auto;
+}
+.rowPosters{
+  display: flex;
+  padding: 20px;
+}
+.background image{
+  background-image: url("reallylove.jpeg");background-repeat:no-repeat;
+  line-height: 200px;
+  width: auto;
+}
